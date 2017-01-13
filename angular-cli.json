@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.24",
-    "name": "redit-clone"
+    "name": "ng-book-redit-clone"
   },
   "apps": [
     {
